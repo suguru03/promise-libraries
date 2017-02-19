@@ -12,7 +12,7 @@
   "author": "Suguru Motegi",
   "license": "MIT",
   "dependencies": {
-    "aigle": "0.1.0",
+    "aigle": "0.3.0",
     "bluebird": "3.4.6"
   }
 }
